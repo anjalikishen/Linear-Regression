@@ -29,3 +29,5 @@ The company believes claim of the insured is influenced by the “age of the ins
  * Arrive at the mathematical equation to predict the target variable, i.e., estimate the regression equation 
  
  * Evaluate the efficiency of the estimated regression equation 
+ 
+Here, The target variable is the “claim amount” claimed by the customer (the insured) and the predictor variable is the “age” of the customer (the insured)
